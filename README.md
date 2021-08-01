@@ -1,6 +1,7 @@
 # My Github Profile;
 
  - `Javascript`, `C++`, `PHP`, `HTML`, `CSS`;
+ - `Backend` and `Front-End`
 
 # About me;
  
