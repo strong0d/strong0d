@@ -3,6 +3,6 @@
 <pre><code> -<span class="ruby"> Web Development</span></code></pre>
 
 ```tex
-$ I'm a sicko, i have 17 years.
+I'm a sicko, i have 17 years.
 ```
 
